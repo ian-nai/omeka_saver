@@ -1,5 +1,5 @@
 # Omeka Saver
-Save Omeka exhibits as warcs using Python.
+Save Omeka exhibits as WARCs using Python.
 
 # Getting Started
 Download the omeka_saver.py script and requirements.txt files to their own folder, then run the following in your terminal:
